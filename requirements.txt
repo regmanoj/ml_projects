@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+matplotlib
+requests
+bs4
+-e .
